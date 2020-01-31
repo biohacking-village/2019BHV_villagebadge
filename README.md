@@ -64,7 +64,7 @@ In order for you to build and use your own add-ons, you have to have access to p
 * GPIO 21
 
  Some possible hacks
-* add a vibration motor for haptic feedback 
+* Add a vibration motor for haptic feedback 
 * Integrate the Simblee platform into Arduino to turn the badge into a gesture controller 
 * Integrate the Simblee platform into Arduino to do over the air updates
   * To help with this, we hacked the Simblee board files for Arduino to respond to a button touch by producing the special ZIP file that is necessary for Over The Air Device Firmware Update (OTA DFU). Check out the gihub documentation for more details.
